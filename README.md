@@ -1,1 +1,1 @@
-# Digital-Democracy
+# DigitalDemocracy
